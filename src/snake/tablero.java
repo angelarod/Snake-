@@ -20,7 +20,7 @@ public class tablero {
     this.Al = Al;
     this.ventana = ventana;
     
-    public void cuadro(){
+    public void ventana(){
         for(int i=0; i< this.An ;i++){
             for(int j=0; j< this.Al; j++){
                 this.ventana[i][j] = ' ';
@@ -31,34 +31,5 @@ public class tablero {
     
     }
     
-}
-	public void Impvntana (' ') {
-		for (int i = 0; i < this.An; i++) {
-			for (int j = 0; j < this.Al; j++) {
-				System.out.print(this.ventana[i][j]);
-			}
-			System.out.println();
-		}
-	}
-    public void ClearScreenLocation(int x, int y) {
-		this.ventana[x][y] = ' ';
-	}
-
-    public int getAn() {
-        return this.An;
-    }
-
-    public int getAl() {
-        return this.Al;
-    }
-
-    public char getObjectOnLocation(int x, int y) {
-		return this.ventana[x][y];
-	}
-
-    public void setObjectOnLocation(Juego objeto, int x, int y) {
-		this.pantalla[x][y] = objeto.getSimbolo();
-	} 
-}
 }
     

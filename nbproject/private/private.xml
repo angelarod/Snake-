@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Dino/Documents/NetBeansProjects/snake/src/snake/tablero.java</file>
+            <file>file:/C:/Users/Dino/Documents/NetBeansProjects/snake/src/snake/Snake.java</file>
+            <file>file:/C:/Users/Dino/Documents/NetBeansProjects/snake/src/snake/Menu.java</file>
+            <file>file:/C:/Users/Dino/Documents/NetBeansProjects/snake/src/snake/comida.java</file>
+            <file>file:/C:/Users/Dino/Documents/NetBeansProjects/snake/src/snake/m.java</file>
+        </group>
     </open-files>
 </project-private>

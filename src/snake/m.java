@@ -9,12 +9,6 @@ package snake;
  *
  * @author Dino
  */
-public class Snake {
-        public static void main(String[] args) {
-        Menu Datos = new Menu();
-        Datos.jugador();
-        
-    }
-    
+class m {
     
 }
